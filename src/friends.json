@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "avatar": "/Images/friend1.png",
+      "name": "John Doe",
+      "isOnline": true
+    },
+    {
+      "id": 2,
+      "avatar": "/Images/friend3.png",
+      "name": "Jane Smith",
+      "isOnline": false
+    },
+    {
+      "id": 3,
+      "avatar": "/Images/friend2.png",
+      "name": "Michael Brown",
+      "isOnline": true
+    }
+  ]
